@@ -17,10 +17,11 @@ console.log(add(3,7));
 */
 
 //function anonymous 
+//used in callbacks 
 
 
 
-
+//arrow function 
 let add= (x,y)=>{
     return x+y;
 
