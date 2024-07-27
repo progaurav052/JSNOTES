@@ -1,0 +1,5 @@
+/* this is js notes 
+ will contain all the concepts of js
+ sit back and enjoy 
+
+ */
